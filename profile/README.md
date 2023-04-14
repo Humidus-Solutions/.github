@@ -33,12 +33,12 @@ Este é um projeto desenvolvido Grupo <b>Humidus Solutions</b> como sequencia de
 ## Colaboradores
 
 <table style="padding:6px"><tr>
-    <td align=center width=134px><a href="https://github.com/danielvor"><img src="https://github.com/danielvor.png" alt="Daniel Rodrigues" width=122px><sub><br/>Daniel Rodrigues</sub></a></td>
+    <td align=center width=134px><a href="https://github.com/Gabriel-N-Freitas"><img src="https://github.com/Gabriel-N-Freitas.png" alt="Gabriel Freitas" width=122px><sub><br/>Gabriel Freitas</sub></a></td>
+     <td align=center width=134px><a href="https://github.com/raquelmiyy"><img src="https://github.com/raquelmiyy.png" alt="Raquel Guimarães" width=122px><sub><br/>Raquel Guimarães</sub></a></td>
     <td align=center width=134px><a href="https://github.com/jhonathaGC"><img src="https://github.com/jhonathaGC.png" alt="Jhonatha Carneiro" width=122px><sub><br/>Jhonatha Carneiro</sub></a></td>
     <td align=center width=134px><a href="https://github.com/VictorBeralde"><img src="https://github.com/VictorBeralde.png" alt="Victor Beralde" width=122px><sub><br/>Victor Beralde</sub></a></td>
     <td align=center width=134px><a href="https://github.com/erickNA2"><img src="https://github.com/erickNA2.png" alt="Erick Araújo" width=122px><sub><br/><br/>Erick Araújo</sub></a></td>
-    <td align=center width=134px><a href="https://github.com/raquelmiyy"><img src="https://github.com/raquelmiyy.png" alt="Raquel Guimarães" width=122px><sub><br/>Raquel Guimarães</sub></a></td>
-    <td align=center width=134px><a href="https://github.com/Gabriel-N-Freitas"><img src="https://github.com/Gabriel-N-Freitas.png" alt="Gabriel Freitas" width=122px><sub><br/>Gabriel Freitas</sub></a></td>
+    <td align=center width=134px><a href="https://github.com/danielvor"><img src="https://github.com/danielvor.png" alt="Daniel Rodrigues" width=122px><sub><br/>Daniel Rodrigues</sub></a></td>
   </tr><tr></tr><tr>
 </tr></table>
 
