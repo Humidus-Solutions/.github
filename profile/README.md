@@ -6,7 +6,7 @@ A Humidus Rivus é uma empresa que visa reduzir o consumo de água em ambientes 
 
 Este é um projeto desenvolvido Grupo <b>Humidus Solutions</b> como sequencia de estudos da disciplina de <b>Pesquisa e Inovação</b> do curso de ADS da São Paulo Tech School (SPTECH).
 
-![Rivus](https://github.com/Humidus-Solutions/RIVUS-Website)
+## ![Rivus](https://github.com/Humidus-Solutions/RIVUS-Website)
 
 **Rivus** é o nome do nosso sistema de captação e reutilização de água da chuva para ajudar as empresas a fazer uso sustentável da água e, consequentemente, reduzir as despesas com água e esgoto. Os sensores podem ser programados para desligar a água automaticamente após um determinado período de tempo e detectar a presença ou ausência de água no tanque.
 
