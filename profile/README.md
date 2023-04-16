@@ -1,5 +1,5 @@
 <!-- # [Rivus](https://github.com/Humidus-Solutions/)-->
-![Rivus](https://github.com/Humidus-Solutions/RIVUS-Website/blob/main/static/assets/img/content/humidus-banner.jpg)
+![Rivus](https://github.com/Humidus-Solutions/RIVUS-Website/blob/main/site/public/assets/img/humidus-banner.jpg)
 ### `Sobre Nós`
 
 A Humidus Rivus é uma empresa que visa reduzir o consumo de água em ambientes empresariais por meio da captação, tratamento e reutilização da água da chuva.
